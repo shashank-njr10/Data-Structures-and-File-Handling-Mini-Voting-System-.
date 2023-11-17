@@ -1,0 +1,10 @@
+user1 pass123 0
+user2 pass456 0
+user3 pass789 0
+user4 passabc 0
+user5 passdef 0
+user6 passghi 0
+user7 passjkl 0
+user8 passmno 0
+user9 passpqr 0
+user10 passstu 0
